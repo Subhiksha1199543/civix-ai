@@ -1,0 +1,20 @@
+[
+  {"text": "There is a large pothole near my college gate, and two bikes nearly fell today.", "label": "URGENT"},
+  {"text": "A live electric wire is hanging low near the bus stop after the rain.", "label": "URGENT"},
+  {"text": "Water main burst on the highway, the road is flooding and cars are stalling.", "label": "URGENT"},
+  {"text": "Open manhole without a cover right outside the primary school entrance.", "label": "URGENT"},
+  {"text": "Sparks coming from the transformer pole near the petrol bunk.", "label": "URGENT"},
+  {"text": "A tree has collapsed onto the main road blocking ambulances.", "label": "URGENT"},
+  {"text": "Streetlight on 3rd Cross has been off for a week, the lane is very dark at night.", "label": "NORMAL"},
+  {"text": "Garbage bin at the market corner is overflowing and smells bad.", "label": "NORMAL"},
+  {"text": "Small water leak from a pipe near our gate, wasting water since yesterday.", "label": "NORMAL"},
+  {"text": "Drain in our lane is clogged and water stagnates after rain.", "label": "NORMAL"},
+  {"text": "Road has developed medium cracks near the temple, slow traffic but passable.", "label": "NORMAL"},
+  {"text": "Garbage not collected from our street for three days.", "label": "NORMAL"},
+  {"text": "The paint on the pedestrian crossing is a bit faded.", "label": "LOW_PRIORITY"},
+  {"text": "Some graffiti on the park wall, please clean when convenient.", "label": "LOW_PRIORITY"},
+  {"text": "Please add one more bench in the park near the library.", "label": "LOW_PRIORITY"},
+  {"text": "Minor litter around the bus shelter, a few wrappers.", "label": "LOW_PRIORITY"},
+  {"text": "Old posters stuck on the compound wall of the community hall.", "label": "LOW_PRIORITY"},
+  {"text": "The signboard at the park entrance is slightly dirty.", "label": "LOW_PRIORITY"}
+]
